@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rubin737/Rubin737/blob/main/panel/cod1.jpg?raw=true" alt="panel" />
+  <img src="https://github.com/Rubin737/Rubin737/blob/main/panel/pro.jpg?raw=true" />
 </div>
 
 
