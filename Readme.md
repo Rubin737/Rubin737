@@ -1,4 +1,7 @@
-![panel](https://github.com/Rubin737/Rubin737/blob/main/panel/cod1.jpg?raw=true)
+<div align="center">
+  <img src="https://github.com/Rubin737/Rubin737/blob/main/panel/cod1.jpg?raw=true" alt="panel" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Rubisten</h1>
 <h3 align="center">A passionate frontend developer from Chennai</h3>
