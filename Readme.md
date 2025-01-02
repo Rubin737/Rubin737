@@ -1,8 +1,10 @@
-![panel](panel\cod1.jpg)
+![panel](https://github.com/Rubin737/Rubin737/blob/main/panel/cod1.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Rubisten</h1>
 <h3 align="center">A passionate frontend developer from Chennai</h3>
 
 <img align="right" alt="Coding" width="400" style="border-radius: 40px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 - 🔭 I’m currently working on **Netflix Clone Project**
 
 - 🌱 I’m currently learning **React.js and DSA**
